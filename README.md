@@ -36,13 +36,18 @@ conditions?
 
 ## Rough Breakdown of Tasks:
 Using Pandas to clean and format your dataset or datasets.
+
 Creating a Jupyter notebook describing the data exploration and cleanup 
 process.
+
 Creating a Jupyter notebook illustrating the final data analysis.
+
 Using Matplotlib to create 6 to 8 visualizations of our data (2 visualizations 
 per “question” that we ask about our data).
+
 Save PNG images of our visualizations to distribute to the class and 
 instructional team—and for inclusion in our presentation.
-Creating a write-up summarizing our major findings. This will include a 
-heading for each “question” that we asked our data as well as a short 
+
+Creating a write-up summarizing our major findings; this will include a 
+heading for each “question” that we ask our data, as well as a short 
 description of our findings and any relevant plots.
