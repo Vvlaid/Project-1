@@ -1,4 +1,4 @@
-![image](https://github.com/Vvlaid/Project-1/assets/166451251/71191e7c-04bf-4c0d-981e-2ba386fe6add)
+![image](https://github.com/Vvlaid/Project-1/assets/166451251/5d0c7b19-8da9-4c31-8da8-f64d19c26a3f)
 
 
 ## Heart Failure Trends
