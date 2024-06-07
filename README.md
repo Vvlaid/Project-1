@@ -18,20 +18,20 @@ and gender. The team will look to predict futuristic trends.
 
 ## Research Questions:
 
-- Is Cardiovascular mortality rates trending up or down over the years? 
-- Specific country trends?
+- Is Cardiovascular mortality rates trending up or down over the years?  - Daniel
+- Specific country trends? - Daniel
 - Those with underlying medical conditions such as Diabetes or depression are
-more likely to have cardiovascular disease.
+more likely to have cardiovascular disease. - Alex
 - Does heart failure have a high mortality rate?
-- Does low blood count (RBC, WBC,Platelets), high Cholesterol , High Blood 
-- Pressure leads to Heart failure.
+- Does low blood count (RBC, WBC,Platelets), high Cholesterol , High Blood  - Vidya
+- Pressure leads to Heart failure? Sodium potasium and chloride levels. - Vidya
 - Do we have the same diagnosis and treatment for the same symptoms.
 - Compare mortality rates by patients’ gender and residence location? (Urban 
-vs. Rural)
+vs. Rural) - Daniel
 - What percent of Heart failure patients have a family history of cardiovascular
-conditions?
-- Which age group has the highest mortality rate due to smoking?
-- Which age group experiences the highest mortality rate?
+conditions? - Raphael
+- Which age group has the highest mortality rate due to smoking? - Ikenna
+- Which age group experiences the highest mortality rate? - Ikenna
 
 ## Datasets Used:
 - https://www.kaggle.com/datasets/asgharalikhan/mortality-rate-heart-patient-pakistan-hospital/data?select=FIC.Full+CSV.csv
