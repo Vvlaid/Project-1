@@ -15,26 +15,24 @@ and gender. The team will look to predict futuristic trends.
 
 ## Research Questions:
 
-Is Cardiovascular mortality rates trending up or down over the years? 
-Specific country trends?
-Those with underlying medical conditions such as Diabetes or depression are
+- Is Cardiovascular mortality rates trending up or down over the years? 
+- Specific country trends?
+- Those with underlying medical conditions such as Diabetes or depression are
 more likely to have cardiovascular disease.
-Does heart failure have a high mortality rate?
-Does low blood count (RBC, WBC,Platelets), high Cholesterol , High Blood 
-Pressure leads to Heart failure.
-Do we have the same diagnosis and treatment for the same symptoms.
-Compare mortality rates by patients’ gender and residence location? (Urban 
+- Does heart failure have a high mortality rate?
+- Does low blood count (RBC, WBC,Platelets), high Cholesterol , High Blood 
+- Pressure leads to Heart failure.
+- Do we have the same diagnosis and treatment for the same symptoms.
+- Compare mortality rates by patients’ gender and residence location? (Urban 
 vs. Rural)
-What percent of Heart failure patients have a family history of cardiovascular
+- What percent of Heart failure patients have a family history of cardiovascular
 conditions?
-Which age group has the highest mortality rate due to smoking?
-Which age group experiences the highest mortality rate?
+- Which age group has the highest mortality rate due to smoking?
+- Which age group experiences the highest mortality rate?
 
 ## Datasets Used:
-- https://www.kaggle.com/datasets/asgharalikhan/mortality-rate-heart-
-patient-pakistan-hospital/data?select=FIC.Full+CSV.csv
-- https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-
-around-the-world
+- https://www.kaggle.com/datasets/asgharalikhan/mortality-rate-heart-patient-pakistan-hospital/data?select=FIC.Full+CSV.csv
+- https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around-the-world
 
 ## Rough Breakdown of Tasks:
 Using Pandas to clean and format your dataset or datasets.
