@@ -1,6 +1,3 @@
-![image](https://github.com/Vvlaid/Project-1/assets/166451251/3f283b1c-43f4-4a58-b286-f8aa81096f8c)
-
-
 ## Heart Failure Trends
 
 Team Members
