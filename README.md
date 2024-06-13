@@ -38,8 +38,6 @@ conditions? - Raphael
 
 - https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around-the-world
 
-- https://www.kaggle.com/datasets/goodnowcurr30/heart-failure-dataset
-
 ## Rough Breakdown of Tasks:
 Using Pandas to clean and format your dataset or datasets.
 
